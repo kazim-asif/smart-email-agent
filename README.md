@@ -14,7 +14,7 @@ State Checkpointing: Pauses execution and securely saves the exact graph state u
 Human-in-the-Loop Review: Resumes the graph once a human operator approves, edits, or rejects the draft via Command(resume=...) to finalize or kill the process.
 
 
-## Learning Outcomes
+## Engineering
 
 **State Machine Architecture**: Shifted from linear chains to a flexible graph network using LangGraph StateGraph.
 
